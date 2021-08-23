@@ -134,11 +134,11 @@ Die _A-Trust_ mit dem Slogan: _"Einfach Sicher"_ erweckt bei mir kein Vertrauen.
 
 Man könnte sagen: Nomen est Omen. _A-Trust_ (gelesen: A Minus Trust).
 
-Die Dokumentationen, Datenschutzerklärung, AGB und die Aussagen der leitenden Angestellten der _A-Trust_ widersprichen sich zutiefst. 
+Die Dokumentationen, Datenschutzerklärung, AGB und die Aussagen der leitenden Angestellten der _A-Trust_ widersprechen sich zutiefst. 
 
 Einerseits erwähnt man, dass die _A-Trust_ personenbezogene Daten nicht an Drittländer weitergibt (aktiv). Auf der anderen Seite wird dies durch ein **"öffentliches Verzeichnis"** ermöglicht (passiv). 
 
-Die Dokumentation des **"LDAP Servers"** erwähnt Maßnahmen, die eine **"missbräuchliche Verwendung"** verhindert wird. Die Realtität sieht jedoch anders aus.
+Die Dokumentation des **"LDAP Servers"** erwähnt Maßnahmen, die eine **"missbräuchliche Verwendung"** verhindern. Die Realtität sieht jedoch anders aus.
 
 
 Die Geschichte der _A-Trust_ zeigt:
@@ -167,11 +167,11 @@ Mein Professor meinte immer: _In die Hände spucken und lachen._
 
 ### Betroffen
 
-Handy-Signaturen, die vor Mai 2018 eine Handy-Signatur beantragt haben, können ihren Eintrag aus dem Verzeichnisdienst schriftlich bei der _A-Trust_ beantragen.
+Betroffene, die vor Mai 2018 eine Handy-Signatur beantragt haben, können einen Antrag auf Löschung aus dem Verzeichnisdienst schriftlich bei der _A-Trust_ einreichen.
 
 ### Nicht Betroffen
 
-Handy-Signaturen, die nach Mai 2018 beantragt wurden, sind nicht ins öffentliche Verzeichnisdienst eingetragen worden.
+Handy-Signaturen, die nach Mai 2018 beantragt wurden, werden nicht ins öffentliche Verzeichnisdienst eingetragen.
 
 ___
 **Für die Statistik:** Mit Stand Mai 2018 gab es ca. 1Mio eingetragene Handy-Signaturen, die automatisch ins öffentliche Verzeichnisdienst eingetragen worden sind. 
