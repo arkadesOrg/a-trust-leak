@@ -165,6 +165,9 @@ Awareness. Hier ist man mit Personendaten fahrlässig umgegangen.
 
 Mein Professor meinte immer: _In die Hände spucken und lachen._
 
+Die Webapplikation Verzeichnisdienst ist unter folgende URL zu erreichen: https://www.a-trust.at/Verzeichnisdienst/
+Der LDAP Server ist unter folgender URL zu erreichen: `ldap://ldap.a-trust.at:389`
+
 ### Betroffen
 
 Betroffene, die vor Mai 2018 eine Handy-Signatur beantragt haben, können einen Antrag auf Löschung aus dem Verzeichnisdienst schriftlich bei der _A-Trust_ einreichen.
