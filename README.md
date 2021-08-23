@@ -2,7 +2,9 @@
 
 Im folgenden wird erklärt, dass ca. 1Mio personenbezogene Daten von österreichischen Bürgern öffentlich zugänglich sind.
 
-Ein Auszug der Daten kann [hier gefunden werden](./a-trust-leak-sample.txt) (_Anmerkung: Dieser Auszug ist aus einem Datenbestand von 100,000 Personendaten._)
+Kleiner Datenauszug kann [hier gefunden werden.](./a-trust-leak-sample.txt) 
+
+_Anmerkung: Dieser Auszug ist aus einem kleinen Datenbestand von 100,000 Personendaten. Aus Datenschutzgründen wurde nur die Domain der E-Mail Adresse hochgeladen - siehe auch [Welche Daten sind öffentlich?](https://github.com/persian-meow/a-trust-leak#welche-daten-sind-%C3%B6ffentlich)_
 
 ## **Wer ist hierfür verantwortlich?**
 
