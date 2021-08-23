@@ -1,6 +1,8 @@
 # **Österreich E-Government Leak**
 
-Im folgenden wird erklärt, dass ca. 1Mio personenbezogene Daten von österreichischen Bürgern öffentlich zugänglich sind. 
+Im folgenden wird erklärt, dass ca. 1Mio personenbezogene Daten von österreichischen Bürgern öffentlich zugänglich sind.
+
+Ein Auszug der Daten kann [hier gefunden werden](./a-trust-leak-sample.txt) (_Anmerkung: Dieser Auszug ist aus einem Datenbestand von 100,000 Personendaten._)
 
 ## **Wer ist hierfür verantwortlich?**
 
