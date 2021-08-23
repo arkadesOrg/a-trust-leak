@@ -11,7 +11,7 @@ Die personenbezogenen Daten werden von der Firma **_A-Trust Gesellschaft für Si
 Bürger, die einer der folgende Produkte der _A-Trust_ verwenden:
 
 - _Handy-Signatur_ (https://handy-signaturkonto.at)
-- _Bürgerkarte_ (https://bürgerkarte.at)Millionen
+- _Bürgerkarte_ (https://bürgerkarte.at)
 
 Weiters sind MitarbeiterInnen von folgenden Einrichtungen/Firmen betroffen:
 - Personendaten des VwGH, VfGH, AK, WKO, OeGK, u.v.m.
