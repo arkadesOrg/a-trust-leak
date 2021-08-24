@@ -6,6 +6,13 @@ Kleiner Datenauszug kann [hier gefunden werden.](./a-trust-leak-sample.txt)
 
 _Anmerkung: Dieser Auszug ist aus einem kleinen Datenbestand von 100,000 Personendaten. Aus Datenschutzgründen wurde nur die Domain der E-Mail Adresse hochgeladen - siehe auch [Welche Daten sind öffentlich?](https://github.com/persian-meow/a-trust-leak#welche-daten-sind-%C3%B6ffentlich)_
 
+## Update 24. August 20:49 Uhr
+
+**Frage:**
+
+<img src="https://user-images.githubusercontent.com/89377537/130672345-be75fec8-2d48-4dfa-baf8-4a73e972256b.png" width="500" />
+
+**Antwort:** Leider nicht genug, ca. 110 Zeilen Golang.
 
 ## Update 24. August 20:38 Uhr
 
