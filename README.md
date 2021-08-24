@@ -6,6 +6,17 @@ Kleiner Datenauszug kann [hier gefunden werden.](./a-trust-leak-sample.txt)
 
 _Anmerkung: Dieser Auszug ist aus einem kleinen Datenbestand von 100,000 Personendaten. Aus Datenschutzgründen wurde nur die Domain der E-Mail Adresse hochgeladen - siehe auch [Welche Daten sind öffentlich?](https://github.com/persian-meow/a-trust-leak#welche-daten-sind-%C3%B6ffentlich)_
 
+
+## Update 24. August 17:48
+
+Gefragt, wie man auf den LDAP Server zugreifen kann:
+
+`ldap://ldap.a-trust.at` mit einem LDAP Browser, wie z.b [Apache Directory Studio](https://directory.apache.org/studio/) oder [JXPlorer](http://jxplorer.org/)
+
+Die Daten lassen sich am einfachsten mit einem Skript dumpen. 
+
+Bis jetzt noch keinen Treffer (_ca. 5.000 Tests durchgeführt_) aus den 250.000 E-Mail Adressen aus dem LDAP auf https://haveibeenpwned.com/ gefunden...
+
 ## Update 24. August 17:20
 
 Einige Fauxpas der _A-Trust_ lassen sich schön auf [dem Blog von Martin Leyrer](https://martin.leyrer.priv.at/tags/a-trust) lesen.
