@@ -7,6 +7,21 @@ Kleiner Datenauszug kann [hier gefunden werden.](./a-trust-leak-sample.txt)
 _Anmerkung: Dieser Auszug ist aus einem kleinen Datenbestand von 100,000 Personendaten. Aus Datenschutzgründen wurde nur die Domain der E-Mail Adresse hochgeladen - siehe auch [Welche Daten sind öffentlich?](https://github.com/persian-meow/a-trust-leak#welche-daten-sind-%C3%B6ffentlich)_
 
 
+## Update 24. August 20:38 Uhr
+
+Leider geht die Diskussion um das Problem hier verloren. Für das Verfahren der Handy-Signatur ist es NICHT notwendig, dass personenbezogene Daten, wie Vorname, Nachname, Geburtsdatum, oder E-Mail Adresse in ein "öffentliches Verzeichnisdienst" veröffentlicht werden müssen.
+
+Das bestätigt auch die _A-Trust_ mehrmals. Zuletzt in der Presseaussendung.
+
+Danke an [@Sarah Kriesche](https://twitter.com/SarahKriesche) für die Aufklärungsarbeit auf Twitter.
+
+Folgende Threads auf Twitter, um euch zu vernetzen:
+
+- https://twitter.com/SarahKriesche/status/1430224377656795138
+- https://twitter.com/SarahKriesche/status/1430205395943964672
+
+Das Thema wurde auch an die Leute von [Noyb](https://noyb.eu/de) weitergeleitet.
+
 ## Update 24. August 18:16 Uhr
 
 Wer sich aus dem Verzeichnisdienst entfernen lassen möchte, sollte dies über die E-Mail `servicecenter@a-trust.at` machen. 
