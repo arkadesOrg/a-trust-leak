@@ -6,6 +6,31 @@ Kleiner Datenauszug kann [hier gefunden werden.](./a-trust-leak-sample.txt)
 
 _Anmerkung: Dieser Auszug ist aus einem kleinen Datenbestand von 100,000 Personendaten. Aus Datenschutzgründen wurde nur die Domain der E-Mail Adresse hochgeladen - siehe auch [Welche Daten sind öffentlich?](https://github.com/persian-meow/a-trust-leak#welche-daten-sind-%C3%B6ffentlich)_
 
+## Update 24. August 17:20
+
+Einige Fauxpas der _A-Trust_ lassen sich schön auf [dem Blog von Martin Leyrer](https://martin.leyrer.priv.at/tags/a-trust) lesen.
+
+## Update 24. August 15:27 Uhr
+
+_A-Trust_ erwähnt in [ihrer Stellungnahme](https://www.a-trust.at/de/presse/news/angebliches-datenleak/), dass:
+
+> _Bei der Aktivierung der Handy-Signatur wurde die Aufnahme des Zertifikats **von Beginn an als Opt-In Verfahren eingerichtet**, **eine automatische Aufnahme ist hier zu keinem Zeitpunkt erfolgt.** UserInnen mussten **aktiv ein optionales Häkchen aktivieren**, um das Zertifikat in den Verzeichnisdienst aufnehmen zu lassen._
+
+Die Kommentare auf Reddit und dem Futurezone Artikel zeigen jedoch verärgerte User, die sich nicht daran erinnern eine derartige Option aktiviert zu haben.
+
+Wenn man die untenstehenden Updates verfolgt, dann drehen wir uns im Kreis. Anfangs hieß es, dass
+
+> _**Seit Einführung der DSGVO (Mai 2018) haben wir standardmäßig nicht mit aufgenommen**, [...]_
+
+Gut, davor hat die _A-Trust_ es standardmäßig aufgenommen - d.h. **Opt-Out Verfahren**. Widerspricht sich dann aber wieder mit der Aussage oben, dass _von Beginn an als **Opt-In Verfahren** eingerichtet_. Zudem finden sich immer mehr User, die trotz einer Registrierung der Handy-Signatur nach Mai 2018, im öffentlichen Verzeichnisdienst eingetragen worden sind (anscheinend ohne deren Zustimmung).
+
+**Damage Control Broken?**
+
+
+## Update 24. August 14:45 Uhr
+
+[Futurezone Artikel](https://futurezone.at/netzpolitik/handy-signatur-datenleck-leak-datenbank-a-trust-reddit-verzeichnis/401481784) von Barbara Wimmer veröffentlicht.
+
 ## Update 24. August 10:30 Uhr
 
 _A-Trust_ [bestreitet den Vorwurf, dass es ein Opt-Out gab](https://www.reddit.com/r/Austria/comments/p9z2er/1mio_personendaten_der_handysignatur/ha50isb?utm_source=share&utm_medium=web2x&context=3). Ihre E-Mails von gestern sagen etwas anderes:
