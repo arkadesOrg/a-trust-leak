@@ -6,6 +6,21 @@ Kleiner Datenauszug kann [hier gefunden werden.](./a-trust-leak-sample.txt)
 
 _Anmerkung: Dieser Auszug ist aus einem kleinen Datenbestand von 100,000 Personendaten. Aus Datenschutzgründen wurde nur die Domain der E-Mail Adresse hochgeladen - siehe auch [Welche Daten sind öffentlich?](https://github.com/persian-meow/a-trust-leak#welche-daten-sind-%C3%B6ffentlich)_
 
+## Update 24. August 10:30 Uhr
+
+_A-Trust_ [bestreitet den Vorwurf, dass es ein Opt-Out gab](https://www.reddit.com/r/Austria/comments/p9z2er/1mio_personendaten_der_handysignatur/ha50isb?utm_source=share&utm_medium=web2x&context=3). Ihre E-Mails von gestern sagen etwas anderes:
+
+**E-Mail 1:**
+> _[...] darum werden neue Handy-Signaturen auch gar **nicht mehr** (Anmerkung: ins öffentliche Verzeichnisdienst) aufgenommen._
+
+**E-Mail 2:**
+> _**Seit Einführung der DSGVO (Mai 2018) haben wir standardmäßig nicht mit aufgenommen**, [...]  – **seit ca. einem Jahr gibt es die Möglichkeit gar nicht mehr.**_
+
+
+## Update 23. August 14:44 Uhr
+
+Reddit Diskussion gestartet - [hier zu finden](https://www.reddit.com/r/Austria/comments/p9z2er/1mio_personendaten_der_handysignatur/).
+
 ## **Wer ist hierfür verantwortlich?**
 
 Die personenbezogenen Daten werden von der Firma **_A-Trust Gesellschaft für Sicherheitssysteme im elektronischen Datenverkehr GmbH_** (kurz **_A-Trust_**) durch deren Produkte (_Handy-Signatur_, _Bürgerkarte_) gespeichert.
