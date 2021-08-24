@@ -1,18 +1,31 @@
 # **Österreich E-Government Leak**
 
-Im folgenden wird erklärt, dass ca. 1Mio personenbezogene Daten von österreichischen Bürgern öffentlich zugänglich sind.
+Im folgenden wird erklärt, dass ~~ca. 1Mio~~ über 1.7Mio personenbezogene Daten von österreichischen Bürgern öffentlich zugänglich sind.
 
 Kleiner Datenauszug kann [hier gefunden werden.](./a-trust-leak-sample.txt) 
 
 _Anmerkung: Dieser Auszug ist aus einem kleinen Datenbestand von 100,000 Personendaten. Aus Datenschutzgründen wurde nur die Domain der E-Mail Adresse hochgeladen - siehe auch [Welche Daten sind öffentlich?](https://github.com/persian-meow/a-trust-leak#welche-daten-sind-%C3%B6ffentlich)_
 
+## Update 24. August 21:03 Uhr
+
+Der Dump selbst benötigt seine Zeit. 
+
+Eine kleine Zwischenbilanz: Die vorherige Schätzung von ca. 1Mio beruhte darauf, dass die Angabe der _A-Trust_ korrekt sei und nur Handy-Signaturen vor Mai 2018 von einem offensichtlichen Opt-Out betroffen sind.
+
+**Der jetzige Stand des Dumps ist bei ca. 1.7Mio und zählt weiter rauf...Das wird nicht mehr lustig.**
+
+_A-Trust_: Hier benötigt es dringend Aufklärung. Wie viele personenbezogene Daten habt ihr im LDAP gespeichert? 
+
 ## Update 24. August 20:49 Uhr
 
 **Frage:**
 
+
 <img src="https://user-images.githubusercontent.com/89377537/130672345-be75fec8-2d48-4dfa-baf8-4a73e972256b.png" width="500" />
 
+
 **Antwort:** Leider nicht genug, ca. 110 Zeilen Golang.
+
 
 ## Update 24. August 20:38 Uhr
 
