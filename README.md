@@ -249,6 +249,7 @@ Die Dokumentation des **"LDAP Servers"** erwähnt Maßnahmen, die eine **"missbr
 
 Die Geschichte der _A-Trust_ zeigt:
 
+- [Lockere Vergabe - BMF Dienstausweise 2006](http://www.globaltrust.eu/php/cms_monitor.php?q=PUB&s=38150uvt)
 - [Panne bei Handysignatur - Namen von Dokumenten einsehbar](https://www.derstandard.at/story/2000052007651/panne-bei-handysignaturat-name-von-dokumenten-einsehbar)
 - [Unprofessionelles Vorgehen bei der Eintragung in Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=252610)
 - [Firefox dank A-Trust nicht für e-Government geeignet](https://martin.leyrer.priv.at/y2008/m06/Firefox_3_dank_A-Trust_nicht_fuer_e-Government_geeignet.html) 
