@@ -253,7 +253,8 @@ Die Geschichte der _A-Trust_ zeigt:
 - [Panne bei Handysignatur - Namen von Dokumenten einsehbar](https://www.derstandard.at/story/2000052007651/panne-bei-handysignaturat-name-von-dokumenten-einsehbar)
 - [Unprofessionelles Vorgehen bei der Eintragung in Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=252610)
 - [Firefox dank A-Trust nicht für e-Government geeignet](https://martin.leyrer.priv.at/y2008/m06/Firefox_3_dank_A-Trust_nicht_fuer_e-Government_geeignet.html) 
-
+- [Privilegien der Windows User](https://www.a-trust.at/de/signaturkarten/asign-premium/)
+- [Unverhältnismäßige Preisgestaltung](https://www.a-trust.at/de/preisliste/#gemeindeausweis)
 
 Wieso wir einen wichtigen Bestandteil unserer E-Government an eine private Firma ausgelagert haben, ist eine andere Frage.
 
