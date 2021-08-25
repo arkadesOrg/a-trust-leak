@@ -6,6 +6,13 @@ Kleiner Datenauszug kann [hier gefunden werden.](./a-trust-leak-sample.txt)
 
 _Anmerkung: Dieser Auszug ist aus einem kleinen Datenbestand von 100,000 Personendaten. Aus Datenschutzgründen wurde nur die Domain der E-Mail Adresse hochgeladen - siehe auch [Welche Daten sind öffentlich?](https://github.com/persian-meow/a-trust-leak#welche-daten-sind-%C3%B6ffentlich)_
 
+## Update 25. August 8:45 Uhr
+
+Nein, die folgende Einstellung "In Suchergebnissen erscheinen" hilft nicht... Bug?
+
+<img src="https://user-images.githubusercontent.com/89377537/130739694-54146f80-2ec5-480c-9d64-dfc4a04d1cef.png" width="500" />
+
+
 ## Update 24. August 21:03 Uhr
 
 Der Dump selbst benötigt seine Zeit. 
